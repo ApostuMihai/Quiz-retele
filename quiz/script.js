@@ -3740,7 +3740,8 @@ const questions = [
         correct: false,
       },
     ],
-    photograph: "",
+    photograph:
+      "https://itexamanswers.net/wp-content/uploads/2019/12/2020-01-17_100010.jpg?ezimgfmt=rs:734x316/rscb2/ng:webp/ngcb2",
     explanation:
       "In this example the interface in the static route is incorrect. The interface should be the exit interface on R1, which is s0/0/0.",
   },
